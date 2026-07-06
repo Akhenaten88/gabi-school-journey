@@ -49,8 +49,8 @@ week-01/
 
 ## ✨ Author
 
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your-email@gmail.com
+- GitHub: https://github.com/Akhenaten88
+- Email: akhenatenjama88@gmail.com
 
 ---
 
