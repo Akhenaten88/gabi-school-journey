@@ -34,3 +34,18 @@ The goal of this project was to practice JavaScript fundamentals and learn how t
 ---
 
 ## 📁 Project Structure
+
+## ✨ Author
+
+- GitHub: https://github.com/Akhenaten88
+- Email: akhenatenjama88@gmail.com
+
+---
+
+## 💡 Reflection
+
+This project was my first step into interactive web development.
+
+After learning HTML and CSS, JavaScript allowed me to add logic and behavior to my websites. This project helped me understand how websites respond to user actions.
+
+More projects coming soon 🚀
